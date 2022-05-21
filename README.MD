@@ -10,7 +10,7 @@ Separated the text treatment functions to the funcs.py to use it on future diffe
 
 This model has been trained with GPU, Nvidia Geforce 2070RTX, the total time was around 30 hours.
 
-This README is still under revision, will be updated this week.
+This README is still under revision.
 
 Acknowledgements:
 - Many thanks to Kiril Eremenko and his course on Udemy.
